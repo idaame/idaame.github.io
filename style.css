@@ -65,3 +65,7 @@ body {
       .footer p {
           color: white;
       }
+
+      h2 {
+          margin-top: 20px;
+      }
